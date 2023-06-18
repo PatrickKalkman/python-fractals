@@ -1,5 +1,5 @@
 # python-fractals
-A repository that contains all the examples that go with a [Medium article called Exploring Fractals With Python - Understanding the Beauty of Chaos](https://medium.com/@pkalkman)
+A repository that contains all the examples that go with a [Medium article called Exploring Fractals With Python - Understanding the Beauty of Chaos](https://medium.com/itnext/exploring-fractals-with-python-understanding-the-beauty-of-chaos-81176fcf8855)
 
 ![fractals](/fractals.jpg "Fractals")
 
